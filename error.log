@@ -1,0 +1,77 @@
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 41, in <module>
+    display.draw_image("/home/surya/evcharger/qr.png")
+  File "/home/surya/evcharger/display.py", line 59, in draw_image
+    font = ImageFont.truetype(config.font_path2, config.font_size)
+                              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'config' has no attribute 'font_path2'. Did you mean: 'font_path'?
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 41, in <module>
+    display.draw_image("/home/surya/evcharger/qr.png")
+  File "/home/surya/evcharger/display.py", line 59, in draw_image
+    font = ImageFont.truetype(config.font_path2, config.font_size)
+                              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'config' has no attribute 'font_path2'. Did you mean: 'font_path'?
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 41, in <module>
+    display.draw_image("/home/surya/evcharger/qr.png")
+  File "/home/surya/evcharger/display.py", line 59, in draw_image
+    font = ImageFont.truetype(config.font_path2, config.font_size)
+                              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'config' has no attribute 'font_path2'. Did you mean: 'font_path'?
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 41, in <module>
+    display.draw_image("/home/surya/evcharger/qr.png")
+  File "/home/surya/evcharger/display.py", line 59, in draw_image
+    font = ImageFont.truetype(config.font_path2, config.font_size)
+                              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'config' has no attribute 'font_path2'. Did you mean: 'font_path'?
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 41, in <module>
+    display.draw_image("/home/surya/evcharger/qr.png")
+  File "/home/surya/evcharger/display.py", line 59, in draw_image
+    font = ImageFont.truetype(config.font_path2, config.font_size)
+                              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'config' has no attribute 'font_path2'. Did you mean: 'font_path'?
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 41, in <module>
+    display.draw_image("/home/surya/evcharger/qr.png")
+  File "/home/surya/evcharger/display.py", line 59, in draw_image
+    font = ImageFont.truetype(config.font_path2, config.font_size)
+                              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'config' has no attribute 'font_path2'. Did you mean: 'font_path'?
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 41, in <module>
+    display.draw_image("/home/surya/evcharger/qr.png")
+  File "/home/surya/evcharger/display.py", line 59, in draw_image
+    font = ImageFont.truetype(config.font_path2, config.font_size)
+                              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'config' has no attribute 'font_path2'. Did you mean: 'font_path'?
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 41, in <module>
+    display.draw_image("/home/surya/evcharger/qr.png")
+  File "/home/surya/evcharger/display.py", line 59, in draw_image
+    font = ImageFont.truetype(config.font_path2, config.font_size)
+                              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'config' has no attribute 'font_path2'. Did you mean: 'font_path'?
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 41, in <module>
+    display.draw_image("/home/surya/evcharger/qr.png")
+  File "/home/surya/evcharger/display.py", line 59, in draw_image
+    font = ImageFont.truetype(config.font_path2, config.font_size)
+                              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'config' has no attribute 'font_path2'. Did you mean: 'font_path'?
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 41, in <module>
+    display.draw_image("/home/surya/evcharger/qr.png")
+  File "/home/surya/evcharger/display.py", line 59, in draw_image
+    font = ImageFont.truetype(config.font_path2, config.font_size)
+                              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'config' has no attribute 'font_path2'. Did you mean: 'font_path'?
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 41, in <module>
+    display.draw_image("/home/surya/evcharger/qr.png")
+  File "/home/surya/evcharger/display.py", line 59, in draw_image
+    font = ImageFont.truetype(config.font_path_2, config.font_size)
+                              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'config' has no attribute 'font_path2'. Did you mean: 'font_path'?
