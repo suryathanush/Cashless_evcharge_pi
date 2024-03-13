@@ -14,8 +14,18 @@ cs_pin = digitalio.DigitalInOut(board.CE0)
 dc_pin = digitalio.DigitalInOut(board.D25)
 reset_pin = digitalio.DigitalInOut(board.D24)
 
-dc_pin = digitalio.DigitalInOut(board.D25)
-reset_pin = digitalio.DigitalInOut(board.D24)
+red_LED = digitalio.DigitalInOut(board.D17)
+green_LED = digitalio.DigitalInOut(board.D27)
+orange_LED = digitalio.DigitalInOut(board.D22)
+
+#set direction for pins
+cs_pin.direction = digitalio.Direction.OUTPUT
+dc_pin.direction = digitalio.Direction.OUTPUT
+reset_pin.direction = digitalio.Direction.OUTPUT
+
+red_LED.direction = digitalio.Direction.OUTPUT
+green_LED.direction = digitalio.Direction.OUTPUT
+orange_LED.direction = digitalio.Direction.OUTPUT
 
 # Config for display baudrate (default max is 24mhz):
 BAUDRATE = 24000000
@@ -39,3 +49,10 @@ FIRST_RECONNECT_DELAY = 1
 RECONNECT_RATE = 2
 MAX_RECONNECT_COUNT = 12
 MAX_RECONNECT_DELAY = 10
+
+# time for idle turn on
+idle_time_in_sec = 300
+
+cutoff_current = 0.5 # in Ampere
+
+prev_idle_time = 0

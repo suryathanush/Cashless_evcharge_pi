@@ -88,12 +88,19 @@ def subscribe(client: mqtt_client):
             if(data["Command"]=="start"):
                 print("command start recieved")
                 command = "start"
+                config.prev_idle_time = time.time()
                 config.relay_pin.value = False
+                config.red_LED.value = True
+                config.green_LED.value = False
+                config.orange_LED.value = False
             elif(data["Command"]=="stop"):
                 print("command stop recieved")
                 command = "stop"
                 display.draw_image("/home/surya/evcharger/qr.png")
                 config.relay_pin.value = True
+                config.red_LED.value = False
+                config.green_LED.value = True
+                config.orange_LED.value = False
             else:
                 print(f'command corrupted : received -> {data["Command"]}')
 

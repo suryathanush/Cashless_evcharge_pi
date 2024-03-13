@@ -75,3 +75,458 @@ Traceback (most recent call last):
     font = ImageFont.truetype(config.font_path_2, config.font_size)
                               ^^^^^^^^^^^^^^^^^
 AttributeError: module 'config' has no attribute 'font_path2'. Did you mean: 'font_path'?
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
+Traceback (most recent call last):
+  File "/home/surya/evcharger/evcharger.py", line 22, in <module>
+    config.orange_LED.value = False
+    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/surya/evcharger/env/lib/python3.11/site-packages/digitalio.py", line 230, in value
+    raise AttributeError("Not an output")
+AttributeError: Not an output
